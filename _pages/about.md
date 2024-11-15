@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> & <a href="https://en.westlake.edu.cn/">Westlake University</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Kele Shao (邵可乐), currently a visiting student at Westlake University under the supervision of [Prof. Huan Wang](https://huanwang.tech/). Concurrently, I am a final-year undergraduate student pursuing a B.S. degree in Control Science and Engineering at Zhejiang University.
+I am Kele Shao (邵可乐), an incoming Ph.D. student at ENCODE Lab, [Westlake University](https://en.westlake.edu.cn/), where I will be advised by [Prof. Huan Wang](https://huanwang.tech/) in a joint program with [Zhejiang University](https://www.zju.edu.cn/english/). Currently, I am completing my final year of undergraduate studies at the [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), while also enrolled in the Advanced Honor Class of Engineering Education at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/).
 
 My research interests broadly encompass Efficient AI and Computer Vision.
 
