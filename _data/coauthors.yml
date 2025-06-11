@@ -1,34 +1,37 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"shao":
+  - firstname: ["Kele"]
+    url: https://cokeshao.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"tao":
+  - firstname: ["Keda"]
+    url: https://kd-tao.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"qin":
+  - firstname: ["Can"]
+    url: https://canqin.tech/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"you":
+  - firstname: ["Haoxuan"]
+    url: https://hxyou.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"sui":
+  - firstname: ["Yang"]
+    url: https://eclipsess.github.io/yangsui.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"wang":
+  - firstname: ["Huan"]
+    url: https://huanwang.tech/
+  - firstname: ["Yue"]
+    url: https://ywang-zju.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"jiang":
+  - firstname: ["Changjian"]
+    url: https://scholar.google.com/citations?hl=en&user=V4miywEAAAAJ
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"xiong":
+  - firstname: ["Rong"]
+    url: https://mypage.zju.edu.cn/rongxiong
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"zhang":
+  - firstname: ["Yu"]
+    url: https://person.zju.edu.cn/zhangyu/
