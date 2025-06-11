@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> & <a href="https://en.westlake.edu.cn/">Westlake University</a>
 
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Kele Shao (邵可乐), an incoming Ph.D. student at ENCODE Lab, [Westlake University](https://en.westlake.edu.cn/), where I will be advised by [Prof. Huan Wang](https://huanwang.tech/) in a joint program with [Zhejiang University](https://www.zju.edu.cn/english/). Currently, I am completing my final year of undergraduate studies at the [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), while also enrolled in the Advanced Honor Class of Engineering Education at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/).
+I am <span style="color: var(--global-theme-color); font-weight: 500">Kele Shao 邵可乐</span>, an incoming Ph.D. student at ENCODE Lab, Westlake University, where I will be advised by [Prof. Huan Wang](https://huanwang.tech/) in a joint program with Zhejiang University. Currently, I am completing my final year of undergraduate studies at the [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm), Zhejiang University, while also enrolled in the Advanced Honor Class of Engineering Education at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/).
 
 My research interests center on Efficient AI and Machine Learning Systems (MLSys), with a focus on developing innovative approaches for model compression and acceleration. My research interests span efficient deep learning techniques across computer vision, large language models (LLMs), and embodied AI domains. The primary goal is to design and deploy resource-efficient AI systems that bridge the gap between academic research and real-world applications.
 
