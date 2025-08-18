@@ -35,3 +35,17 @@
 "zhang":
   - firstname: ["Yu"]
     url: https://person.zju.edu.cn/zhangyu/
+  - firstname: ["Kejia"]
+    url: https://kejiazhang-robust.github.io/
+
+"feng":
+  - firstname: ["Sicheng"]
+    url: https://fscdc.github.io/
+
+"cai":
+  - firstname: ["Mu"]
+    url: https://pages.cs.wisc.edu/~mucai/
+
+"shang":
+  - firstname: ["Yuzhang"]
+    url: https://42shawn.github.io/
